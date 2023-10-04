@@ -9,15 +9,15 @@ pinpoints that location on a web application/ software linked to TrackPro.
 
 
 Modules : 
-Map
-Parking Spot
-Reports
-Parking Zone
-Admin Search
-System Health
-Preferences
-Privilege
-Role
+Map,
+Parking Spot,
+Reports,
+Parking Zone,
+Admin Search,
+System Health,
+Preferences,
+Privilege,
+Role,
 User
 https://github.com/CodeByDanish/AramcoHealthCare-JhahParkSmart-Admin/assets/137075836/a00b74dc-0e36-449d-b297-15e941e87ee7
 
